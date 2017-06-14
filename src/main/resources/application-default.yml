@@ -1,0 +1,6 @@
+  zuul:
+    routes:
+      massnahmenui.path: /**
+      massnahmenui.url: http://localhost:4200
+      demo.path: /demo/**
+      demo.url: http://localhost:9999
